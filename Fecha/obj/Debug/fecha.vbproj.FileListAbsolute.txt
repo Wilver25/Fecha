@@ -1,0 +1,22 @@
+C:\Users\Wildnay\AppData\Local\Temporary Projects\fecha\bin\Debug\fecha.exe.config
+C:\Users\Wildnay\AppData\Local\Temporary Projects\fecha\bin\Debug\fecha.exe
+C:\Users\Wildnay\AppData\Local\Temporary Projects\fecha\bin\Debug\fecha.pdb
+C:\Users\Wildnay\AppData\Local\Temporary Projects\fecha\bin\Debug\fecha.xml
+C:\Users\Wildnay\AppData\Local\Temporary Projects\fecha\obj\Debug\fecha.Form1.resources
+C:\Users\Wildnay\AppData\Local\Temporary Projects\fecha\obj\Debug\fecha.Resources.resources
+C:\Users\Wildnay\AppData\Local\Temporary Projects\fecha\obj\Debug\fecha.vbproj.GenerateResource.Cache
+C:\Users\Wildnay\AppData\Local\Temporary Projects\fecha\obj\Debug\fecha.exe
+C:\Users\Wildnay\AppData\Local\Temporary Projects\fecha\obj\Debug\fecha.xml
+C:\Users\Wildnay\AppData\Local\Temporary Projects\fecha\obj\Debug\fecha.pdb
+C:\Users\Wildnay\AppData\Local\Temporary Projects\fecha\obj\Debug\fecha.prueba.resources
+C:\Users\Wildnay\Desktop\Fecha\Fecha\bin\Debug\Fecha.exe.config
+C:\Users\Wildnay\Desktop\Fecha\Fecha\obj\Debug\Fecha.exe
+C:\Users\Wildnay\Desktop\Fecha\Fecha\obj\Debug\Fecha.xml
+C:\Users\Wildnay\Desktop\Fecha\Fecha\obj\Debug\Fecha.pdb
+C:\Users\Wildnay\Desktop\Fecha\Fecha\bin\Debug\Fecha.exe
+C:\Users\Wildnay\Desktop\Fecha\Fecha\bin\Debug\Fecha.pdb
+C:\Users\Wildnay\Desktop\Fecha\Fecha\bin\Debug\Fecha.xml
+C:\Users\Wildnay\Desktop\Fecha\Fecha\obj\Debug\fecha.Form1.resources
+C:\Users\Wildnay\Desktop\Fecha\Fecha\obj\Debug\fecha.Resources.resources
+C:\Users\Wildnay\Desktop\Fecha\Fecha\obj\Debug\fecha.prueba.resources
+C:\Users\Wildnay\Desktop\Fecha\Fecha\obj\Debug\Fecha.vbproj.GenerateResource.Cache
